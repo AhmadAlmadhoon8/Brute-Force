@@ -18,6 +18,10 @@ btn.onclick = () => {
         text.innerHTML += Decryption + "::::::::::key: " + i + "<br>";
         Decryption = "";
     }
-
+    Decryption = "";
+    suffit = [];
 }
-suffit = [];
+
+
+
+
